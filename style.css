@@ -33,6 +33,6 @@ h1 {
 }
 
 #personal{
-    position: relative;
+    position: absolute;
     text-align: center;
 }
