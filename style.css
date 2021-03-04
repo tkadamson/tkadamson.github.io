@@ -8,9 +8,21 @@ body{
     color: #333;
     background:lightsteelblue;
 }
+header {
+    background: #333;
+  }
+  
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+  }
 
 #figure{
     position: fixed;
-    left: 3%
+    left: 3%;
 
 }
