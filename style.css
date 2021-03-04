@@ -33,13 +33,13 @@ h1 {
 }
 
 #personal{
-    position: absolute;
+    position: relative;
     text-align: left;
     margin-right: 5px;
     margin-left: 5px;
 }
 .list{
-    position: absolute;
+    position: relative;
     text-align: center;
     list-style-type: none;
 }
