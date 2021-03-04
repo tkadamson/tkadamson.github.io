@@ -47,11 +47,12 @@ h4{
     position: relative;
     text-align: center;
 }
-ul{
+.ul1{
     list-style-type: none;
-    margin-left: -10px
+    margin-left: -10px;
 }
 
 footer{
-    bottom: 20px
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
