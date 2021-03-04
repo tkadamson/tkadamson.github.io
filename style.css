@@ -24,5 +24,10 @@ h1 {
 #figure{
     position: fixed;
     left: 3%;
+}
 
+.bio{
+    float: right;
+    width: 60%;
+    font-size: 14px;
 }
