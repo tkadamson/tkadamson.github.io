@@ -34,5 +34,12 @@ h1 {
 
 #personal{
     position: absolute;
+    text-align: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.list{
+    position: absolute;
     text-align: center;
+    list-style-type: none;
 }
