@@ -35,11 +35,18 @@ h1 {
 #personal{
     position: relative;
     text-align: left;
-    margin-right: 5px;
-    margin-left: 5px;
+    margin-right:20px;
+    margin-left: 20px;
 }
+
+h4{
+    padding: 0;
+}
+
 .list{
     position: relative;
     text-align: center;
+}
+li{
     list-style-type: none;
 }
