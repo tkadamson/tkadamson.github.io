@@ -8,3 +8,9 @@ body{
     color: #333;
     background:lightsteelblue;
 }
+
+#figure{
+    position: fixed;
+    left: 3%
+
+}
