@@ -24,6 +24,7 @@ h1 {
 #figure{
     position: relative;
     left: 3%;
+    margin-top: 30px;
 }
 
 .bio{
@@ -49,7 +50,7 @@ h4{
 }
 .ul1{
     list-style-type: none;
-    margin-left: -40px;
+    margin-left: -45px;
 }
 
 footer{
